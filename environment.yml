@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - pip
+  - graphviz
   - pip:
     - pandas
     - matplotlib
